@@ -1,0 +1,9 @@
+.straight {
+    color: red;
+    background-color: white;
+}
+
+.inverted {
+    color: white;
+    background-color: red;
+}
